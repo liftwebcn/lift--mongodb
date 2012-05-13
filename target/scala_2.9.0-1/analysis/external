@@ -1,0 +1,13 @@
+#External Dependencies
+#Fri May 11 11:23:15 CST 2012
+/Users/Readman/Desktop/eltimn-lift-mongo-protouser-b592ce8/project/boot/scala-2.9.0-1/lib/scala-library.jar=src/main/scala/code/snippet/HelloWorld.scala\:src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/model/User.scala\:src/main/scala/code/lib/ProtoUser.scala\:src/main/scala/code/lib/DependencyFactory.scala
+/Users/Readman/Desktop/eltimn-lift-mongo-protouser-b592ce8/lib_managed/scala_2.9.0-1/compile/lift-mongodb_2.9.0-1-2.4-M1.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/model/User.scala\:src/main/scala/code/lib/ProtoUser.scala
+/Users/Readman/Desktop/eltimn-lift-mongo-protouser-b592ce8/lib_managed/scala_2.9.0-1/compile/lift-mongodb-record_2.9.0-1-2.4-M1.jar=src/main/scala/code/model/User.scala\:src/main/scala/code/lib/ProtoUser.scala
+/Users/Readman/Desktop/eltimn-lift-mongo-protouser-b592ce8/lib_managed/scala_2.9.0-1/compile/lift-webkit_2.9.0-1-2.4-M1.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/lib/ProtoUser.scala\:src/main/scala/code/lib/DependencyFactory.scala
+/Users/Readman/Desktop/eltimn-lift-mongo-protouser-b592ce8/lib_managed/scala_2.9.0-1/compile/lift-json_2.9.0-1-2.4-M1.jar=src/main/scala/code/lib/ProtoUser.scala
+/Users/Readman/Desktop/eltimn-lift-mongo-protouser-b592ce8/lib_managed/scala_2.9.0-1/compile/mail-1.4.1.jar=src/main/scala/bootstrap/liftweb/Boot.scala
+/Users/Readman/Desktop/eltimn-lift-mongo-protouser-b592ce8/lib_managed/scala_2.9.0-1/compile/lift-record_2.9.0-1-2.4-M1.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/model/User.scala\:src/main/scala/code/lib/ProtoUser.scala
+/Users/Readman/Desktop/eltimn-lift-mongo-protouser-b592ce8/lib_managed/scala_2.9.0-1/compile/lift-util_2.9.0-1-2.4-M1.jar=src/main/scala/code/snippet/HelloWorld.scala\:src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/model/User.scala\:src/main/scala/code/lib/ProtoUser.scala\:src/main/scala/code/lib/DependencyFactory.scala
+/Users/Readman/Desktop/eltimn-lift-mongo-protouser-b592ce8/lib_managed/scala_2.9.0-1/compile/mongo-java-driver-2.5.3.jar=src/main/scala/code/lib/ProtoUser.scala
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar=src/main/scala/code/snippet/HelloWorld.scala\:src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/model/User.scala\:src/main/scala/code/lib/ProtoUser.scala\:src/main/scala/code/lib/DependencyFactory.scala
+/Users/Readman/Desktop/eltimn-lift-mongo-protouser-b592ce8/lib_managed/scala_2.9.0-1/compile/lift-common_2.9.0-1-2.4-M1.jar=src/main/scala/code/snippet/HelloWorld.scala\:src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/model/User.scala\:src/main/scala/code/lib/ProtoUser.scala

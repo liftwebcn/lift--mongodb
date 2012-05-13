@@ -1,0 +1,6 @@
+#Source Hashes
+#Fri May 11 11:23:21 CST 2012
+src/test/scala/RunWebApp.scala=de23acfe5da70fbd898a3ea7f9e1c2963b7d6a22
+src/test/scala/code/snippet/HelloWorldTest.scala=f676a77c19b11a52d06e817091e631abebfee530
+src/test/scala/LiftConsole.scala=22893715b7745fd6e9577162deffc5bc91cc34f0
+src/test/scala/code/AppTest.scala=922238f19b37a04198c931565cb5a9ae3c901819

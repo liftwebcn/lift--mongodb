@@ -1,0 +1,39 @@
+update
+jetty-run
+jetty-stop
+exit
+jetty-run
+update
+idea
+diea
+idea
+actons
+actions
+ *remove idea
+*idea is com.github.mpeltonen sbt-idea-processor 0.4.0
+idea
+exit
+idea
+*idea is com.github.mpeltonen sbt-idea-processor 0.4.0
+*idea is com.github.mpeltonen sbt-idea-processor 1.0.0
+*idea is com.github.mpeltonen sbt-idea 1.0.0
+exit
+update
+idea
+gen-idea
+*sbtIdeaRepo at http://mpeltonen.github.com/maven/
+*idea is com.github.mpeltonen sbt-idea-processor 0.4.0
+update
+idea
+update
+'
+]
+idea
+clean
+update
+reload
+idea
+exit
+ipdate
+update
+console

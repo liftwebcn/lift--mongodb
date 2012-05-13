@@ -1,0 +1,2 @@
+这个是一个简单的mongodb和lift的例子, 里面用Liftweb官网的界面, 建立了一个User的表, 在mongodb下可以直接查看.
+wrtien by elitmn
